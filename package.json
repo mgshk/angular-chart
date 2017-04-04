@@ -1,0 +1,15 @@
+{
+  "name": "angular-chart",
+  "description": "angular chart",
+  "devDependencies": {
+    "angular": "^1.6.4",
+    "angular-ui-router": "^0.4.2",
+    "grunt": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-keepalive": "^1.0.0"
+  },
+  "dependencies": {
+    "angular-chart.js": "^1.1.1",
+    "chart.js": "^2.5.0"
+  }
+}
